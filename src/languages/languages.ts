@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-languages',
+  selector: 'phb-languages',
   styles: '~languages',
   template: '~languages',
 })

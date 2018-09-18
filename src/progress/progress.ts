@@ -2,7 +2,7 @@ import { Color } from '../color/color';
 import { Bind, Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-progress',
+  selector: 'phb-progress',
   styles: '~progress',
   template: '~progress',
 })

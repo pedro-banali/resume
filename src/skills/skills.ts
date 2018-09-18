@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-skills',
+  selector: 'phb-skills',
   styles: '~skills',
   template: '~skills',
 })

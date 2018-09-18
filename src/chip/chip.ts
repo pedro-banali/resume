@@ -2,7 +2,7 @@ import { Color } from '../color/color';
 import { Bind, Component, Listen, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-chip',
+  selector: 'phb-chip',
   styles: '~chip',
   template: '~chip',
 })

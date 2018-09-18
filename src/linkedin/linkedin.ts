@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-linkedin',
+  selector: 'phb-linkedin',
   styles: '~linkedin',
   template: '~linkedin',
 })

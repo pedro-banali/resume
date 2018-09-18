@@ -7,7 +7,7 @@
   justify-content: center;
   align-items: center;
 
-  alr-card {
+  phb-card {
     background-color: #fff;
     display: flex;
     margin: $image-size + $font-size auto 4rem;
@@ -16,7 +16,7 @@
     padding: 2rem;
     position: relative;
 
-    alr-title {
+    phb-title {
       font-size: 2rem;
       text-align: right;
       margin-bottom: 1rem;

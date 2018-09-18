@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-experience',
+  selector: 'phb-experience',
   styles: '~experience',
   template: '~experience',
 })

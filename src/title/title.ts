@@ -2,7 +2,7 @@ import { Color } from '../color/color';
 import { Bind, Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-title',
+  selector: 'phb-title',
   styles: '~title',
   template: '~title',
 })

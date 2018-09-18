@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-resume',
+  selector: 'phb-resume',
   styles: '~resume',
   template: '~resume',
 })

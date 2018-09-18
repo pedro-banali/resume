@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-portrait',
+  selector: 'phb-portrait',
   styles: '~portrait',
   template: '~portrait',
 })

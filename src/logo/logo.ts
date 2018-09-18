@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-logo',
+  selector: 'phb-logo',
   styles: '~logo',
   template: '~logo',
 })

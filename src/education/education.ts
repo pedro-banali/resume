@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-education',
+  selector: 'phb-education',
   styles: '~education',
   template: '~education',
 })

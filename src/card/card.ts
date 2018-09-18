@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-card',
+  selector: 'phb-card',
   styles: '~card',
   template: '~card',
 })

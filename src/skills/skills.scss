@@ -1,14 +1,14 @@
 :host {
   display: block;
 
-  alr-card {
+  phb-card {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
 
     padding: 24px 0.5rem;
 
-    alr-title {
+    phb-title {
       width: 100%;
     }
   }

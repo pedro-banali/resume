@@ -1,7 +1,7 @@
 import { Component, WebComponent } from '../web-component';
 
 @Component({
-  selector: 'alr-contact',
+  selector: 'phb-contact',
   styles: '~contact',
   template: '~contact',
 })

@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rabelloo/resume.git"
+    "url": "git+https://github.com/pedro-banali/resume.git"
   },
   "author": "Andre Luiz Rabello <andre.luiz_r@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rabelloo/resume/issues"
+    "url": "https://github.com/rabelloo/pedro-banali/issues"
   },
-  "homepage": "https://github.com/rabelloo/resume#readme",
+  "homepage": "https://github.com/pedro-banali/resume#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^4.5.2",
     "coveralls": "^3.0.2",
