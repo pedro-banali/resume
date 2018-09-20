@@ -1,7 +1,10 @@
 :host {
   $logo-size: 200px;
-
+  
   display: inline-block;
   height: auto;
   width: $logo-size;
+  g{
+    fill:#fff;
+  }
 }

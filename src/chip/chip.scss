@@ -23,6 +23,9 @@
 
   &[active] {
     @include shadow-only();
+    @include bg-primary();
+    font-weight: 600;
+    color: #fff;
   }
 
   @media print {
