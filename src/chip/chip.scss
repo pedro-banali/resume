@@ -10,7 +10,7 @@
   padding: 7px 12px;
   margin: 4px;
   align-items: center;
-  cursor: default;
+  cursor: pointer;
 
   position: relative;
   overflow: hidden;
@@ -24,7 +24,7 @@
   &[active] {
     @include shadow-only();
     @include bg-primary();
-    cursor: pointer;
+
     font-weight: 600;
     color: #fff;
   }
