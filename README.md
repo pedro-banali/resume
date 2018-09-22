@@ -1,47 +1,28 @@
-[![Build Status](https://travis-ci.org/rabelloo/resume.svg?branch=master)](https://travis-ci.org/rabelloo/resume)
-[![Coverage Status](https://coveralls.io/repos/github/rabelloo/resume/badge.svg?branch=master)](https://coveralls.io/github/rabelloo/resume?branch=master)
+[![Build Status](https://travis-ci.org/pedro-banali/resume.svg?branch=master)](https://travis-ci.org/pedro-banali/resume)
+[![Coverage Status](https://coveralls.io/repos/github/pedro-banali/resume/badge.svg?branch=master)](https://coveralls.io/github/pedro-banali/resume?branch=master)
 
 # resume
 Résumé in HTML with Web Components
 
-## A little tale
-I wanted to update my résumé, but text editors were limiting my creativity and expression. :confused:
+## The another little tale
+Andre Rabello, a team mate, wanted to update his résumé, and he had a tale to tell. :sweat_smile:
 
-I just figured I'd do it in HTML + CSS, I'd have more control after all.
-Then I started suffering from the lack of power in styling and installed SCSS. :pensive:
+I just figured that I could use what he created and increment a little bit and use this opportunity to learn about WebComponents, WebPack, Typescript. :pensive:
 
-Soon after I was missing scoped styles and Hot Module Replacement, or at least Hot Reload.
-Obviously I couldn't setup Webpack alone without a proper testing framework, so Jest it is. :hushed:
+Soon after I forked I started looking into the code and I was like :hushed:
 
-But I wasn't going to use JavaScript after all, was I?
-Well I guess since I have all the setup now I might as well...
-and since we're doing JS, let's go ahead and improve it with TypeScript. :sweat_smile:
+As a eager to learn and a self taught person I started looking into to code and understanding what was happening.
+My satisfaction that I could, after a while, read and change it was like . :sweat_smile:
 
-Whoa now I have this awesome setup and I won't be using any of it...
-what if I tried writing my own Web Components, from spec, without any framework? :sunglasses:
+Wow it's just WebComponents how can be so happy about learning such a simple framework? :confused:
+Just because, even though it was a simple framework, doesn't mean it's not a challenge that I can solve and also the accomplishment feeling that I learned a new thing :satisfied:
 
-Geez, now I know why there are so many frameworks out there...
-let me code just a few helpers and a Webpack loader to make my life easier...
-oh hey, now I can't test anything anymore! On to refactoring! :stuck_out_tongue:
+This is pretty much the summary of my life as a developer, always knowing about something and trying to learn it to see if I can catchup and don't fall behind :running:
 
-Since this is pretty much a project now, might as well put it on Github, setup Travis and Firebase.
-Hmm there was this Coveralls thing I was meaning to give a try, why not now? :satisfied:
-
-:running:
-
-Three days later, I can finally start doing what I wanted to in the first place. :+1:
-
-I guess that's pretty showing of who I am, even more than my résumé could ever point out.
-I cannot stand doing anything inefficiently. :confounded:
-
-I will always find a way to improve upon processes and tools.
-There's nothing I love more than learning something new to solve a different problem. :smile:
-
-A few days from now I will probably have, as they say, built a bazooka to kill an ant. :rocket: :ant: 
 
 ## Goal
 - To build a résumé that looks good, first and foremost, as a .pdf file. If Chrome can render it so that I can print a one pager I'm good
 - Secondly, learning about Web Components without framework guardrails
 - Thirdly, incrementally building on the résumé so that perhaps it can also be portfolio
 - Fourhtly, inject result into a more complete personal web page
-- Lastly, if results are good, mayhaps I've just build yet another Web Component framework (probably very lightweight in features)
+- Lastly, Learn about WebComponents, Typescript and WebPack and show a little history how I got here
